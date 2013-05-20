@@ -1,0 +1,34 @@
+<ListaQuestoes Titulo="Lista de Exercicios Teste">
+  <Tema>Portugues e Matematica.</Tema>
+  <Autor>Varios</Autor>
+  <Data>04.11.2011</Data>
+  <Obs>É usada para os testes com XML 
+ sem mais.</Obs>
+  <Idioma>Portugues Brasil</Idioma>
+  <VersaoPlataforma>1</VersaoPlataforma>
+  <Permutar>Nao</Permutar>
+  <Avaliacao>2</Avaliacao>
+  <Questao Titulo="Primeira Questão">
+    <Tema>Lingua Portuguesa</Tema>
+    <Autor>Bruno Orlandi</Autor>
+    <Enunciado>Enunciado da primeira questão</Enunciado>
+    <Correta>146972</Correta>
+    <Permutar>Nao</Permutar>
+    <Alternativa>Alternativa A</Alternativa>
+    <Alternativa>Alternativa B</Alternativa>
+    <Alternativa>Alternativa C</Alternativa>
+  </Questao>
+  <Questao Titulo="Segunda Questão!">
+    <Tema>Matemática</Tema>
+    <Autor>Vinicius Lovato</Autor>
+    <Enunciado>Enunciado da segunda questão</Enunciado>
+    <Correta>97290</Correta>
+    <Permutar>Nao</Permutar>
+    <Alternativa>Alternativa 1</Alternativa>
+    <Alternativa>Alternativa 2</Alternativa>
+    <Alternativa>Alternativa 3</Alternativa>
+    <Alternativa>Alternativa 4</Alternativa>
+    <Alternativa>Alternativa 5</Alternativa>
+    <Alternativa>Alternativa 6</Alternativa>
+  </Questao>
+</ListaQuestoes>
