@@ -31,14 +31,6 @@ public class QuestionList {
 	
 	public String Idioma;///< Idioma é setado automaticamente pela interface de criação.
 	public String Data; ///< Data de modificação da lista de questões, usado para comparar atualizações. É feita automaticamente pela interface do sistema.
-	/**
-	 * Representa a versão da plataforma em que a lista foi implementada.
-	 * É atribuida automaticamente pela interface do sistema de criação.
-	 * Este número de versão deverá ser usado futuramente quando o sistema receber muitas atualizações e melhorias que podem gerar imcompatibilidade de conteúdo.
-	 * A versão da plataforma deverá indicar que o sistema se adapte para interpretar normalmente uma lista de questões implementada em versões antigas.
-	 * @deprecated sem uso por enquanto.
-	 */
-	private int VersaoPlataforma;
 	
 	/// A lista de objetos do tipo Questão
 	private ArrayList<Question> ListaQuestoes;
