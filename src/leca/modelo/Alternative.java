@@ -33,6 +33,7 @@ public class Alternative {
 	 * @param text O texto da alternativa
 	 * @throws IncompleteDataException 
 	 */
+	/*
 	public Alternative(String text) throws IncompleteDataException {
 		Id = -1;
 		if(text == null || text.equals("")){
@@ -40,6 +41,7 @@ public class Alternative {
 		}
 		Text = text;
 	}
+	*/
 	
 	/**
 	 * É usado pelo conversor de XML de User para guardar o ID da alternativa.

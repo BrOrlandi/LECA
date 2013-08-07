@@ -95,9 +95,11 @@ public class Question {
 	 * @throws IncompleteDataException 
 	 * @see AlternativesList Alternative
 	 */
+	/*
 	public void addAlternativa(String alt) throws IncompleteDataException{
 		Alternativas.addAlternative(alt);
 	}
+	*/
 	
 	/**
 	 * Permuta a lista de alternativas se for permitido pela questão.

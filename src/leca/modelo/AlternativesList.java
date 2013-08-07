@@ -47,9 +47,11 @@ public class AlternativesList {
 	 * @throws IncompleteDataException 
 	 * @see Alternative
 	 */
+	/*
 	public void addAlternative(String alt) throws IncompleteDataException{
 		Alternativas.add(new Alternative(alt));
 	}
+	*/
 	
 
 	/**
